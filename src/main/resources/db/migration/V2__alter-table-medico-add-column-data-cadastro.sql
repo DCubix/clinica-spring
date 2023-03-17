@@ -1,0 +1,1 @@
+alter table medico add column data_cadastro datetime not null default now();
